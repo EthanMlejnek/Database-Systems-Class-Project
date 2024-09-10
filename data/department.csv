@@ -1,0 +1,16 @@
+department_id,department_name,num_employees,department_code
+1,"Human Resources",18,HR001
+2,Finance,23,FIN001
+3,Marketing,28,MKT001
+4,Sales,33,SAL001
+5,"Information Technology",43,IT001
+6,"Research and Development",38,RND001
+7,"Customer Service",53,CS001
+8,Operations,45,OPS001
+9,Legal,10,LGL001
+10,"Product Management",18,PM001
+11,"Quality Assurance",22,QA001
+12,"Business Development",12,BD001
+13,"Public Relations",8,PR001
+14,"Facilities Management",20,FM001
+15,"Supply Chain",30,SC001

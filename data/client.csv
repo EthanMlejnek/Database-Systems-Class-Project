@@ -1,0 +1,16 @@
+client_id,client_name,client_email,client_phone_number,client_website,client_industry,client_country
+1,"TechNova Solutions",contact@technovasolutions.com,+1-555-0101,www.technovasolutions.com,"Information Technology","United States"
+2,"GreenLeaf Enterprises",info@greenleaf.com,+44-20-1234-5678,www.greenleafenterprises.co.uk,"Sustainable Energy","United Kingdom"
+3,"Quantum Dynamics Corp",support@quantumdynamics.com,+1-555-0102,www.quantumdynamics.com,Aerospace,"United States"
+4,"Global Health Initiatives",contact@globalhealth.org,+41-22-123-4567,www.globalhealthinitiatives.org,Healthcare,Switzerland
+5,"NextGen Robotics",info@nextgenrobotics.com,+81-3-1234-5678,www.nextgenrobotics.co.jp,Robotics,Japan
+6,"EcoSmart Buildings",support@ecosmart.com,+61-2-9876-5432,www.ecosmartbuildings.com.au,Construction,Australia
+7,FintechFlow,contact@fintechflow.com,+353-1-123-4567,www.fintechflow.ie,"Financial Technology",Ireland
+8,"Gourmet Delights International",info@gourmetdelights.com,+33-1-23-45-67-89,www.gourmetdelights.fr,"Food & Beverage",France
+9,"AutoDrive Innovations",support@autodrive.com,+49-30-123456,www.autodriveinnovations.de,Automotive,Germany
+10,"CloudScale Networks",info@cloudscale.net,+1-555-0103,www.cloudscalenetworks.com,"Cloud Computing","United States"
+11,"BioGenetics Research",contact@biogenetics.com,+46-8-123-45-67,www.biogeneticsresearch.se,Biotechnology,Sweden
+12,"SmartHome Systems",support@smarthome.com,+82-2-1234-5678,www.smarthomesystems.kr,"Home Automation","South Korea"
+13,"Renewable Energy Collective",info@renewablecollective.org,+45-12-34-56-78,www.renewableenergycollective.dk,"Renewable Energy",Denmark
+14,"Global Logistics Solutions",contact@globallogistics.com,+31-20-123-4567,www.globallogisticssolutions.nl,Logistics,Netherlands
+15,"Quantum Computing Frontiers",info@quantumfrontiers.com,+1-555-0104,www.quantumcomputingfrontiers.com,"Quantum Computing","United States"

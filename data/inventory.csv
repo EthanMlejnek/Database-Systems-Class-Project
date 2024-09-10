@@ -1,0 +1,21 @@
+inventory_id,item_name,item_description,quantity,condition,employee_id,project_id
+1,"Server Rack","Dell PowerEdge R740 Server Rack",5,New,14,1
+2,"Cloud Storage","AWS S3 Storage (in TB)",100,New,15,2
+3,"Firewall Appliance","Cisco ASA 5500-X Series",3,New,16,3
+4,"Digital Camera","Canon EOS R5 Mirrorless Camera",2,New,7,4
+5,"Marketing Analytics Software","Adobe Analytics License",10,New,8,5
+6,"Design Workstation","iMac Pro 27-inch",5,New,9,6
+7,"3D Printer","Ultimaker S5 Pro Bundle",2,New,16,7
+8,"Laboratory Equipment Set","Complete Lab Setup",1,Good,17,8
+9,Spectrometer,"Thermo Scientific Nicolet iS50",1,New,18,9
+10,"CRM Software Licenses","Salesforce Enterprise Edition",50,New,10,10
+11,"Training Materials","Sales Training Handbook",100,New,11,11
+12,"Market Research Reports","Industry Analysis Reports",5,New,12,12
+13,"Survey Software","Qualtrics Employee Engagement Platform",1,New,1,13
+14,"Applicant Tracking System","Workday Recruiting",1,New,2,14
+15,"Training Videos","Diversity and Inclusion Video Series",1,New,3,15
+16,"Financial Software","SAP S/4HANA Finance",1,New,4,16
+17,"Data Visualization Tool","Tableau Desktop Professional",10,New,5,17
+18,"Blockchain Development Kit","Ethereum Development Suite",5,New,6,18
+19,"AI Development Platform","Google Cloud AI Platform",1,New,19,19
+20,"Data Analysis Software","SPSS Statistics",5,New,20,20
